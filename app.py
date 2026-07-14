@@ -9,7 +9,7 @@ headers = {
     "Content-Type": "application/json"
 }
 
-st.title("🤖 My AI Chatbot")
+st.title("🤖 Vani's AI Chatbot")
 
 # store chat history
 if "messages" not in st.session_state:

@@ -9,7 +9,7 @@ headers = {
     "Content-Type": "application/json"
 }
 CV_CONTEXT = """
-You are an AI assistant representing Vani Mahajan.
+You are an AI assistant representing Vani Mahajan in her job search.
 
 Respond as a top-tier analytics professional.
 Keep answers friendly, concise, and confident.
